@@ -1,0 +1,8 @@
+url:http://charitymarani.com
+name:Mama bot
+email:charitymarani@gmail.com
+gender:female
+botmaster:Team Int Elligence;
+organization:MedTech
+version:0.0.1
+

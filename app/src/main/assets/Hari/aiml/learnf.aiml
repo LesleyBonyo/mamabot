@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- File: motherwhat.aiml -->
+<!-- Author: Team int Elligence -->
+<aiml>
+<category>
+<pattern>WHAT IS JAUNDICE </pattern>
+<template>Jaundice is when your skin and the whites of your eyes turn yellow.It is harmless in newborns.</template>
+</category>
+<category>
+<pattern>WHAT * DO * BABY * CRYING*</pattern>
+<template>Make sure its not hungry,sick and the diapers are changed.</template>
+</category>
+<category>
+<pattern>HOW OFTEN SHOULD*FEED*BABY*</pattern>
+<template><srai>* times * feed * baby *</srai></template>
+</category>
+<category>
+<pattern>* TIMES * FEED * BABY *</pattern>
+<template>Babies need to eat a minimum of 8–12 (or more) times in 24 hours.</template>
+</category>
+<category>
+<pattern>WHAT * MILK EXPRESSION*</pattern>
+<template>
+Expressing milk means squeezing milk out of your breast so you can store it and feed it to your baby later.
+</template>
+</category>
+<category>
+<pattern>How* EXPRESS *MILK</pattern>
+<template>You can express milk by hand or with a breast pump</template>
+</category>
+<category>
+<pattern>HOW* STORE* BREAST MILK*</pattern>
+<template>You can store breast milk in a sterilised container or in special breast milk storage bags in a fridge</template>
+</category>
+<category>
+<pattern>HOW LONG * BREASTFEED* SESSION LAST*</pattern>
+<template>All that depends on your baby's needs.Some babies want frequent short feeds, and others prefer feeding for longer – or a mixture of the two.</template>
+</category>
+<category>
+<pattern>HOW LONG SHOULD * BREASTFEED *</pattern>
+<template>Exclusive breastfeeding (breast milk only) is recommended for around the first six months of your baby's life</template>
+</category>
+<category>
+<pattern>CAN * BREASTFEED AFTER * CAESAREAN</pattern>
+<template>Yes you can</template>
+</category>
+<category>
+<pattern>WHAT * IMPORTANCE * BREASTFEEDING*</pattern>
+<template>Breast milk has very important nutrients necessary for child development</template>
+</category>
+<category>
+<pattern>WHEN * STOP * BREASTFEEDING*</pattern>
+<template>It is adviced to breastfeed for six months and then can stop anytime after the six months.</template>
+</category>
+<category>
+<pattern>* STOP * BREASTFEEDING *</pattern>
+<template><srai>When* stop * breastfeeding*</srai></template>
+</category>
+<category>
+<pattern>HOW * KNOW * BABY * HUNGRY*</pattern>
+<template>They may get restless,suck their fist or fingers,make murmuring sounds,turn their head and open their mouth (rooting)</template>
+</category>
+<category>
+<pattern>WHAT* DO * BREAST* LEAK* </pattern>
+<template>Press the heel of your hand gently but firmly on your breast when this happens.Wearing breast pads will stop your clothes becoming wet with breast milk</template>
+</category>
+<category>
+<pattern>HOW DO I STOP BREASTFEEDING</pattern>
+<template>There's no right or wrong way to stop breastfeeding.It could happen gradually as you start introducing solid food.</template>
+</category>
+<category>
+<pattern>HOW * KNOW * BABY * FULL*</pattern>
+<template>You may notice that Sucking slows down or stops,you no longer hear swallowing,baby’s arms and hands relax</template>
+</category>
+<category>
+<pattern>HOW * INCREASE * MILK * </pattern>
+<template>You need to breast feed frequently,bond with the baby skin to skin,avoid taking harmful substances and feed well.</template>
+</category>
+
+</aiml>
