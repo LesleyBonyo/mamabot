@@ -87,10 +87,15 @@ public class MainActivity extends AppCompatActivity
         int id = item.getItemId();
 
         if (id == R.id.ask) {
-            // Handle the camera action
+            Intent i1= new Intent(getApplicationContext(), ChatActivity.class);
+            startActivity(i1);
         } else if (id == R.id.child_care) {
+            Intent i2= new Intent(getApplicationContext(), LibraryActivity.class);
+            startActivity(i2);
 
         } else if (id == R.id.chat) {
+            Intent i3= new Intent(getApplicationContext(), ChatRoomActivity.class);
+            startActivity(i3);
 
         } else if (id == R.id.fav) {
 
